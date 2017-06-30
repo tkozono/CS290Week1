@@ -1,13 +1,15 @@
-<div id="caption">Pokemon GO Top 5 Pokemon</div>
+<div id="caption">Pokemon GO Top 5 Pokemon Stats</div>
 <table border="1">
-  <tr>
-    <th></th>
-    <th>Dragonite</th>
-    <th>Tyranitar</th>
-    <th>Blissey</th>
-    <th>Machamp</th>
-    <th>Vaporeon</th>
-  </tr>
+  <thead>
+    <tr>
+      <th></th>
+      <th>Dragonite</th>
+      <th>Tyranitar</th>
+      <th>Blissey</th>
+      <th>Machamp</th>
+      <th>Vaporeon</th>
+    </tr>
+  </thead>
   <tr>
     <td class="rowHeader">Type</td>
     <td>Flying/Dragon</td>
@@ -48,4 +50,31 @@
     <td>Close Combat</td>
     <td>Hydro Pump</td>
   </tr>
+  <tfoot>
+    <tr>
+      <td colspan="2">Footer 1</td>
+      <td colspan="4">Footer 2</td>
+    </tr>
+  </tfoot>
 </table>
+
+<ul>
+  <li>Dogs</li>
+  <ol>
+    <li>Aiko (F)</li>
+    <li>Buster (M)</li>
+    <li>Lavi (F)</li>
+    <li>Wally (M)</li>
+  </ol>
+  <li>Cats</li>
+  <ol>
+    <li>Ninja (F)</li>
+    <li>Shaq (M)</li>
+    <li>Moto (M)</li>
+    <li>Annie (F)</li>
+  </ol>
+  <li>Bearded Dragons</li>
+  <ol>
+    <li>Digger (F)</li>
+  </ol>
+</ul>
