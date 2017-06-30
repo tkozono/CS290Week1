@@ -1,0 +1,51 @@
+<div id="caption">Pokemon GO Top 5 Pokemon</div>
+<table border="1">
+  <tr>
+    <th></th>
+    <th>Dragonite</th>
+    <th>Tyranitar</th>
+    <th>Blissey</th>
+    <th>Machamp</th>
+    <th>Vaporeon</th>
+  </tr>
+  <tr>
+    <td class="rowHeader">Type</td>
+    <td>Flying/Dragon</td>
+    <td>Rock/Dark</td>
+    <td>Normal</td>
+    <td>Fighting</td>
+    <td>Water</td>
+  </tr>
+  <tr>
+    <td class="rowHeader">Max CP</td>
+    <td>3581</td>
+    <td>3670</td>
+    <td>3219</td>
+    <td>2889</td>
+    <td>3157</td>
+  </tr>
+  <tr>
+    <td class="rowHeader">Max HP</td>
+    <td>155</td>
+    <td>169</td>
+    <td>412</td>
+    <td>153</td>
+    <td>216</td>
+  </tr>
+  <tr>
+    <td class="rowHeader">Best Fast Move</td>
+    <td>Dragon Tail</td>
+    <td>Bite</td>
+    <td>Pound</td>
+    <td>Karate Chop</td>
+    <td>Water Gun</td>
+  </tr>
+  <tr>
+    <td class="rowHeader">Best Charged Move</td>
+    <td>Hurricane</td>
+    <td>Stone Edge</td>
+    <td>Hyper Beam</td>
+    <td>Close Combat</td>
+    <td>Hydro Pump</td>
+  </tr>
+</table>
