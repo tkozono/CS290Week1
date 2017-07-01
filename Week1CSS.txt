@@ -4,3 +4,31 @@
 .rowHeader {
   font-style: italic;
 }
+#outer-content {
+  width: 75%;
+  height: 30px;
+  background-color: pink;
+  position:relative;
+  top: 20px;
+  margin-bottom: 20px;
+}
+#inner-content {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 75%;
+  background-color: lightblue;
+  text-align: center;
+}
+
+label {
+  width: 80%;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-style: groove;
+}
+input {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}

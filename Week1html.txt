@@ -78,3 +78,23 @@
     <li>Digger (F)</li>
   </ol>
 </ul>
+<div id="outer-content">
+<div id="inner-content">Look Here!</div>
+</div>
+
+<form>
+  <fieldset>
+  <legend>Some GET Data</legend>
+  <label>Text Here: 
+    <input type="text" name="text_input" size="30" maxlength="100">
+  </label>
+  <br/>
+  <label>Number Here: 
+    <input type="text" name="numerical_input" size="30" maxlength="100">
+  </label>
+  <br/>
+  <label>Password Here: 
+    <input type="text" name="password_input" size="30" maxlength="100">
+  </label>
+  </fieldset>
+</form>
